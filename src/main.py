@@ -86,3 +86,5 @@ c_percentage = float(percentage)
 c_number_of_people = int(number_of_people)
 result = (c_total_bill + (c_total_bill * (c_percentage / 100))) / c_number_of_people
 print(round(result, 2))
+
+#test adding code
